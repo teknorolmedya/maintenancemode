@@ -9,6 +9,7 @@
 Change Background Properties
 1)
 body class
+
     font-family: 'Arial', sans-serif; /*-> Font Type */
     
     background-color: #1a1a2e; /*-> Background color */
