@@ -8,7 +8,7 @@
 
 Change Background Properties
 1)
-body {
+body class
     font-family: 'Arial', sans-serif; /*-> Font Type */
     
     background-color: #1a1a2e; /*-> Background color */
@@ -24,4 +24,4 @@ body {
     height: 100vh; /* body item height in, px, cm, mm, pt, em, rem, %, vh, vw, vmin, vmax */
     
     text-align: center; /* text align center, right or left */
-}
+
