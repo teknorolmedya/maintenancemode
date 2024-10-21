@@ -1,10 +1,10 @@
-# Maintenance Mode Site - İndex and Style CSS
+# Maintenance Mode Site
 
-
+<h2>Maintenance Mode Demo</h2>
 ![image](https://github.com/user-attachments/assets/0fe384f9-f7c2-4cc6-bd92-17a0679b711f)
 
 
-
+<h2>Change Properties</h2>
 
 1) <html lang="tr"> Enter the abbreviation code of your own language instead of en here
 1.1 ) https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
