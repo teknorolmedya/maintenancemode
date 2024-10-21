@@ -10,11 +10,18 @@ Change Background Properties
 1)
 body {
     font-family: 'Arial', sans-serif; /*-> Font Type */
+    
     background-color: #1a1a2e; /*-> Background color */
+    
     color: #f0f0f0; -> /*body text color a color name - like "blue", a RGB value - like "rgb(255,0,0) red,green,blue 0-256, a Hex value - like "#ff0000" */
+    
     display: flex; /* display none, inline, block, inline-block */
+    
     align-items: center; /* item align normal,stretch, center, start,end, flext-start, flex-end, self-start, self-end, anchor-enter, baseline, first baseline, last baseline, safe center, unsafe center, inherit, initial, revert, revert-layer, unset */
+    
     justify-content: center; /* center, start, end flex-start, flex-end, left, right, normal, space-between, space-around, space-evenly, stretch, safe center, unsafe center, inherit, initial, revert, revet-layer, unset*/
+    
     height: 100vh; /* body item height in, px, cm, mm, pt, em, rem, %, vh, vw, vmin, vmax */
+    
     text-align: center; /* text align center, right or left */
 }
