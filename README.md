@@ -7,8 +7,8 @@
 
 
 Change Background Properties
-1)
-body class
+
+<b>Body Class</b>
 
     font-family: 'Arial', sans-serif; /*-> Font Type */
     
